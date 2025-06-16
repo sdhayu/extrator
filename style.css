@@ -1,13 +1,13 @@
 
 :root {
     --cor-destaque: #990e1c;
-    --cor-gradiente-preto: linear-gradient(113deg, #000 0%, #1E2021 44.96%, #1E2022 100%);
+    --cor-gradiente-preto: linear-gradient(113deg, #c56f50 0%, #e87949 44.96%, #ce421f 100%);
 }
 
 * {
     margin: 0;
     padding: 0;
-    font-family: Montserrat;
+    font-family: 'Times New Roman', Times, serif ;
 }
 
 body {
